@@ -6,7 +6,7 @@ const Faq: NextComponentType = () => {
 
   return (
     <>
-      <section className="sm:py-[50px] py-[30px]">
+      <section className="sm:pt-[50px] pt-[30px] pb-[100px]">
         <div className="innerDiv mx-auto">
           <h4 className="text-center text-[36px] font-[700] text-[#18191F] mb-16">Frequently Asked Questions</h4>
           <div className="flex flex-wrap sm:-mx-3">
