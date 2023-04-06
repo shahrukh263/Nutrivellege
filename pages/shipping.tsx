@@ -32,7 +32,7 @@ const Shipping: NextPage = () => {
                   <label className="block text-[#444150] font-[500] text-base mb-2">
                     E-mail<span className="text-[#27874E]">*</span>
                   </label>
-                  <input type="text" className="block w-full border border-[#D9D9D9] py-[14px] px-4 rounded-[6px] outline-none" placeholder="Enter your email" />
+                  <input type="email" className="block w-full border border-[#D9D9D9] py-[14px] px-4 rounded-[6px] outline-none" placeholder="Enter your email" />
                 </div>
               </div>
               <div className="sm:px-3 lg:w-1/2 md:w-1/2 w-full">
